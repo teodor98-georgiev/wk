@@ -10,7 +10,7 @@ s = {"brand": "Mercedes",
      "color": "white"}
 
 for keys,values in s.items():
-    txt1 =  " {0} - {1}".format(keys,values)
+    txt1 =  " {1} - {0}".format(keys,values)
     print(txt1)
 # brand - Mercedes
 # model - glc ....
