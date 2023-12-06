@@ -6,7 +6,6 @@
 12_04_1_play_rock_paper_ALL.py       
   copt from task above
   do all possibilities !!! :) :) :) :)    DONE 
-
   
   1. make for all 3 variands ( 2 new)
   2. make a def to choose them with if
