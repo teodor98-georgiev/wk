@@ -11,6 +11,7 @@ def BMI_calculation(weight,height):
         return "well, correct your course, you're a bit overweight"
     else:
         return "are you seing yourself in mirror? what for a fat ball you become?"
+    
 print("tell me weight in kg and height in m and I will tell you what to do")
 insertion1 = float(input("enter your weight here:"))
 insertion2 = float(input("enter your height here:"))
