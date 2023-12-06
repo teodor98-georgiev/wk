@@ -1,4 +1,5 @@
 # declare dictionary, print out content in for cycle
+#dictionaries: used to store data with a key and value, to be more ordered
 
 import os
 clear = lambda: os.system('cls')

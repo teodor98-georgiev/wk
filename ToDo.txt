@@ -1,0 +1,41 @@
+12.04 ------------------------------
+11_27_7_play_rock_paper.py
+  fix it !!!
+  name it properly - own item     DONE 
+
+12_04_1_play_rock_paper_ALL.py       
+  copt from task above
+  do all possibilities !!! :) :) :) :)    DONE 
+
+  
+  1. make for all 3 variands ( 2 new)
+  2. make a def to choose them with if
+
+
+
+12.03 ------------------------------
+ block shema rock paper    DONE
+   bonus - implement       DONE
+
+discount for shop write program   DONE
+
+po razhod - litri na 100 km - da vadi izm. km za 1 litar    DONE
+  primer - razhod(100,5) da razpechatva ( moje da minete 20km s 1 litar)   DONE
+ 
+11_29_8_temperature_conv - variavle names fix    DONE
+
+11_30_10_bancomat - block shema       !!!!!!  UNABLE !!!!!!!
+
+!!! ne pravish NISHTO drugo novo !!!!
+
+11.27 -----------------------------
+11_27_6_disc_amount.py    DONE
+
+11_29_8_temperature_conv.py      DONE
+11_29_9_validate_triangle_simple.py   DONE
+  
+11_27_7_play_rock_paper.py     DONE
+
+11_29_9_validate_triangle.py   DONE
+
+  
