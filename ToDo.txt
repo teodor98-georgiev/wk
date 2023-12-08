@@ -1,4 +1,8 @@
-12.04 ------------------------------
+12. 07-----------------
+   finish exercise 11_30_10_bancomat
+   finish authentication exercise
+
+  12.04 ------------------------------
 11_27_7_play_rock_paper.py
   fix it !!!
   name it properly - own item     DONE 
@@ -7,10 +11,8 @@
   copt from task above
   do all possibilities !!! :) :) :) :)    DONE 
   
-  1. make for all 3 variands ( 2 new)
-  2. make a def to choose them with if
-
-
+  1. make for all 3 variands ( 2 new)   DONE
+  2. make a def to choose them with if  DONE
 
 12.03 ------------------------------
  block shema rock paper    DONE
