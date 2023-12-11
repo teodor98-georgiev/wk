@@ -6,8 +6,8 @@
 # asd
 # GW-RH-Q2-YX-KT
 
+# length - 17?
 # bukvi i cifri
-# length
 # at which position is separator
 # case is upper
 

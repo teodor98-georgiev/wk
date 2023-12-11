@@ -17,7 +17,7 @@ usrInpTool = input("enter an element:")
 
 playRockPaperSci(usrInpTool)
 
-# ZDR block schema  DONE
+# OK
 
 
 

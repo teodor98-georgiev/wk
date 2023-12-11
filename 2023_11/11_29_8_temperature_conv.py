@@ -26,4 +26,4 @@ resultCF = convertCel_Fahr(inputCels)
 print(resultCF)
 print("this is temperature measured in Fahrenheit degrees")
 
-# ZDR  input parameters - more sense !!! OK
+# OK

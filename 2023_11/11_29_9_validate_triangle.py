@@ -16,7 +16,7 @@ while userInp != "E":
 
 print("good bye!")
 
-# zdr debug again    DONE
+# OK
 # BRIEFLY
 # in debugging (showing what program do)the block of function (scope of function) is something different from the outside scope 
 # because if I start from def the orange index will go soon at the row of calling or in general the row immediatly after the

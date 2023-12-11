@@ -19,5 +19,4 @@ insertion2 = float(input("enter your height here:"))
 verdict = BMI_calculation(insertion1,insertion2)
 print(verdict)
 
-#izlishna proverka - mahni DONE
-# ZDR no complex parameters with operations
+# OK
