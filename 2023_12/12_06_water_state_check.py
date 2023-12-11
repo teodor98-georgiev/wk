@@ -1,5 +1,5 @@
 # Water State Checker: Given a temperature input, determine if water at that temperature is in a solid, liquid, or gaseous state
-
+#OK
 def det_temperature(temperature):
     if temperature <= 0:
         return "the water is in solid state"

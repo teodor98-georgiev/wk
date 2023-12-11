@@ -1,3 +1,4 @@
+# ZDR dobavi zadanie
 
 def gain_day(lemon,orange,price_lemon,price_orange):
     tot1 = lemon*price_lemon

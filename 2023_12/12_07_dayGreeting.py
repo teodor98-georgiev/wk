@@ -5,7 +5,8 @@
 # 16-21 good evening
 # 21-... good night
 
-def day_greeting(hour):
+#OK
+def dayGreeting(hour):
     if hour <= 12 and hour >= 6:
         return "good morning darling, have you slept well ?"
     elif hour <= 16:
@@ -16,8 +17,8 @@ def day_greeting(hour):
         return "good night and rest for next battle"
         
 insertion = float(input("enter the day hour:"))
-result = day_greeting(insertion)
-print(result)
+print(dayGreeting(insertion))
+
 
 
 

@@ -11,6 +11,7 @@ def playRock(userTool):
         print("I won")
     else:
         print("SPEAK IN ENGLISH!!")
+
 def playPaper(userTool):
     compTool = "paper"
     print("mine is:"+compTool)
@@ -22,6 +23,7 @@ def playPaper(userTool):
         print("you won")
     else:
         print("SPEAK IN ENGLISH!!")
+
 def playSci(userTool):
     compTool = "scissors"
     print("mine is:"+compTool)
@@ -33,6 +35,7 @@ def playSci(userTool):
         print("I won")
     else:
         print("SPEAK IN ENGLISH!!")
+        
 def playALL():
     # random_number = 2
     random_number = random.randint(1,3)

@@ -1,3 +1,4 @@
+# ZDR uslovie
 import math
 def Surf_Per(a,b,c,angle):
     angle_deg = math.radians(angle)

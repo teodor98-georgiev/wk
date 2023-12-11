@@ -38,4 +38,6 @@ def tax_calculator(income_lv):
         
 insertion = int(input("enter here your salary:"))
 verdict = tax_calculator(insertion)
-print(verdict)     
+print(verdict)
+
+# ZDR kato na koraba - fix repeating, predefine var in begining

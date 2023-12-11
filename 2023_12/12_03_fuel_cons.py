@@ -1,3 +1,5 @@
+# OK
+
 # def max_range(capacity,consumption):
 #     per_100 = consumption/100
 #     km_litres = (per_100)**-1
