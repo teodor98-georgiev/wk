@@ -14,4 +14,4 @@ result = change_price(insertion_age)
 print(result)
 
 
-# izlishna proverka - nameri i opravi  DONE
+#OK! 

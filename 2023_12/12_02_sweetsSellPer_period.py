@@ -1,4 +1,5 @@
-# ZDR dobavi zadanie
+# ZDR dobavi zadanie   DONE 
+# how much did you gained from the lemon and orange selling ?
 
 def gain_day(lemon,orange,price_lemon,price_orange):
     tot1 = lemon*price_lemon

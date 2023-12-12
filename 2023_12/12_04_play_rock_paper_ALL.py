@@ -47,5 +47,5 @@ def playALL():
         playSci(ask_user)
 playALL()
 
-# ZDR fix - input must be in avariable, not in parameters of each method, because in case of debugging I must see where is problem
+# ZDR fix DONE - input must be in avariable, not in parameters of each method, because in case of debugging I must see where is problem
 # 1. no parameters in playAll   DONE
