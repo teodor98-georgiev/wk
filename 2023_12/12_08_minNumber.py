@@ -1,4 +1,5 @@
-# # Min of Three Numbers: Write a program that finds the maximum of three numbers.
+# OK 
+#Min of Three Numbers: Write a program that finds the maximum of three numbers.
 def min_number(n1,n2,n3):
     if n1 <= n2 and n1 <= n3:
         return n1
@@ -9,8 +10,6 @@ def min_number(n1,n2,n3):
 
 result = min_number(7,3,-71)
 print(result)
-
-# sashtite zabelejki    DONE
 
 # with methods and for more numbers
 def Min(n1,n2):     # notice, when I have more than 2 numbers to compare I have to compare each group per 2 numbers 
@@ -27,5 +26,3 @@ def min_numbers(n1,n2,n3,n4):
 
 result = min_numbers(2,5,6,7)
 print(result)
-
-# ZDR da NE e str()    DONE

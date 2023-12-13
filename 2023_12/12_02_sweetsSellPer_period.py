@@ -1,4 +1,4 @@
-# ZDR dobavi zadanie   DONE 
+#OK!!
 # how much did you gained from the lemon and orange selling ?
 
 def gain_day(lemon,orange,price_lemon,price_orange):

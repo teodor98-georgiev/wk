@@ -2,7 +2,8 @@
 
 def quadEq_calculus(a,b,c):
     if a == 0:
-        return "operation is not executable"
+        # ZDR DONE explain better
+        return "operation is not executable because of deivision by 0"
     square_delta = (b**2)-(4*a*c)
     if square_delta < 0:
         return "0 real solutions"
@@ -22,9 +23,3 @@ def quadEq_calculus(a,b,c):
 
 verdict = quadEq_calculus(0,9,71)
 print(verdict)
-
-
-# ZDR 1. bez vgraden method  DONE
-# 2. definicionno mnojestvo   DONE
-# 3. bez str   DONE
-# 4. 3-4 primera   DONE

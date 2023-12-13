@@ -38,12 +38,17 @@ def playSci(userTool):
         print("SPEAK IN ENGLISH!!")
 
 def playALL():
-    random_number = random.randint(1,3)
-    ask_user = input("enter here your tool:")
-    if random_number == 1:
-        playRock(ask_user)
-    elif random_number == 2:
-        playPaper(ask_user)
-    elif random_number == 3:
-        playSci(ask_user)
+    comp_choice = random.randint(1,3)
+    user_choice = input("enter here your tool or 'exit':")
+    
+    while user_choice != "exit":
+        if comp_choice == 1:
+            playRock(user_choice)
+        elif comp_choice == 2:
+            playPaper(user_choice)
+        elif comp_choice == 3:
+            playSci(user_choice)
+        user_choice = input("enter here your tool or 'exit':")
+        comp_choice = random.randint(1,3)
 playALL()
+

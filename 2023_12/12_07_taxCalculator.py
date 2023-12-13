@@ -17,31 +17,29 @@ def tax_calculator(income_lv):
     if income_lv <= 18484:
         withHolding_tax += income_lv - (income_lv * 0.09)
         owed_taxes += (income_lv * 0.09)
-        return txt + f"{withHolding_tax:,}" + " and " + f"{owed_taxes:,}"
-    
     elif income_lv <= 29780:
         withHolding_tax += income_lv - (income_lv * 0.12)
         owed_taxes += (income_lv * 0.12)
-        return txt + f"{withHolding_tax}" + " and " + f"{owed_taxes}"
-    
     elif income_lv <= 39904:
         withHolding_tax += income_lv - (income_lv * 0.18)
         owed_taxes +=  (income_lv * 0.18)
-        return txt + f"{withHolding_tax}" + " and " + f"{owed_taxes}"
-    
     elif income_lv <= 51785:
         withHolding_tax += income_lv - (income_lv * 0.22)
         owed_taxes +=  (income_lv * 0.22)
-        return txt + f"{withHolding_tax}" + " and " + f"{owed_taxes}"
-    
     else:
         withHolding_tax += income_lv - (income_lv * 0.27)
         owed_taxes += (income_lv * 0.27)
-        return txt + f"{withHolding_tax}" + " and " + f"{owed_taxes}"
+    return txt + f"{withHolding_tax}" + " and " + f"{owed_taxes}"
     
         
 insertion = int(input("enter here your salary per year:"))
 verdict = tax_calculator(insertion)
 print(verdict)
 
-# ZDR kato na koraba - fix repeating, predefine var in begining
+# ZDR DONE kato na koraba - fix repeating, predefine var in begining  
+# ZDR 2 - izvedi formulite izvan IF. v IF - samo set-ni nova promenliva
+# izmisli j  ime ! :)
+# 1. kofcienta - napravi promenliva v nachaloto,
+# 2. set-vai q v IF-a
+# 3. izpolzvai vav formultei
+# 4. GLEDAI !!!!! :)

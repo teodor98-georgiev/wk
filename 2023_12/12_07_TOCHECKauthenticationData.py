@@ -31,7 +31,7 @@ insertion_license = (input("Enter here your license:"))
 result = license_control(insertion_license)
 print(result)
 
-# ZDR 4 metoda - vseki da proverqva samo 1 neshto !!!
+# ZDR TO DO WITH LOOPS 4 metoda - vseki da proverqva samo 1 neshto !!!
 # i 1 metod - da gi vika tezi 4
 # nov fail
 
